@@ -1,12 +1,8 @@
 <div align="center">
-    <h1>Slauncher</h1>
-    <p>A minimal, privacy-first Android launcher.</p>
+    <h1>navidroid</h1>
+    <p>Minimal and distractionless launcher for Android.</p>
     <br />
     <img src="fastlane/metadata/android/en-US/images/icon.png" width="192"/>
-    
-    
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/en/packages/app.slauncher)
-
 </div>
 
 Slauncher is a lightweight Android launcher focused on simplicity, privacy, and customization. It is designed to stay out of your way and give you the essentials without ads or data collection.
@@ -14,24 +10,23 @@ Slauncher is a lightweight Android launcher focused on simplicity, privacy, and 
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin-top: 1rem;" align="center">
-    <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/01.png" width="200">
-    <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/02.png" width="200">
-    <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/03.png" width="200">
+    <img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/c27b5617-f06c-4c57-9cd6-0d4a4bb396c2" />
+    <img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/bc6c29fc-3a3d-46e1-8f1e-cd9d2dc89fb5" />
 </div>
 
 ## Features
 
-- **Minimal UI**: clean, distraction-free home experience.
-- **Ad-free**: no ads anywhere in the launcher.
-- **Privacy-respecting**: does not collect or send user data.
-- **Custom fonts**: choose and apply fonts from settings.
-- **Media Player**: play media from a minimal widget on home.
+- **Minimal, distractionless UI**. Just your wallpaper, clock, and text list of apps.
+- **Privacy-respecting**. There is no telemetry or ads, and never will be.
+- **Custom font support**. You can choose from preinstalled fonts or bring your own.
+- **Media widget included**. Control media using a helpful widget.
 
 ## License
 
 - This project is licensed under the GNU General Public License v3 (GPLv3). See the [LICENSE](./LICENSE) file for details.
 
-## Inspiration
+## Inspiration and Roadmap
 
-- Forked from and inspired by [tanujnotes/olauncher](https://github.com/tanujnotes/olauncher).
-  - _**Note**: Slauncher does not include the daily wallpapers feature from the original project. (Coz I didn't use it)_
+**navidroid** is a fork of [Slauncher](https://github.com/s4nj1th/Slauncher), which is itself a fork of the great [Olauncher](https://github.com/tanujnotes/Olauncher). 
+
+We are adding in some new QoL features, such as support for landscape mode and some other nice-to-haves. We will update this repo with a roadmap soon enough.
