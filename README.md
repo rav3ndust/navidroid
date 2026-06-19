@@ -2,10 +2,7 @@
     <h1>navidroid</h1>
     <p>Minimal and distractionless launcher for Android.</p>
     <br />
-    <img src="fastlane/metadata/android/en-US/images/icon.png" width="192"/>
 </div>
-
-Slauncher is a lightweight Android launcher focused on simplicity, privacy, and customization. It is designed to stay out of your way and give you the essentials without ads or data collection.
 
 ## Screenshots
 
