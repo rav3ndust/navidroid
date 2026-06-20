@@ -4,11 +4,13 @@
     <br />
 </div>
 
+**navidroid** is a minimal, distractionless, and tiny launcher for Android devices. It aims to follow the same conventions as [naviOS](https://github.com/xvoidsx/naviOS), providing you with the same clean, beautiful experience on your phone or tablet as you do on your desktop.
+
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin-top: 1rem;" align="center">
-    <img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/c27b5617-f06c-4c57-9cd6-0d4a4bb396c2" />
-    <img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/bc6c29fc-3a3d-46e1-8f1e-cd9d2dc89fb5" />
+    <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/c27b5617-f06c-4c57-9cd6-0d4a4bb396c2" />
+    <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/bc6c29fc-3a3d-46e1-8f1e-cd9d2dc89fb5" />
 </div>
 
 ## Features
