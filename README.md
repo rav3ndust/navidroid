@@ -9,8 +9,7 @@
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin-top: 1rem;" align="center">
-    <img width="570" height="800" alt="image" src="https://github.com/user-attachments/assets/c27b5617-f06c-4c57-9cd6-0d4a4bb396c2" />
-    <img width="570" height="800" alt="image" src="https://github.com/user-attachments/assets/bc6c29fc-3a3d-46e1-8f1e-cd9d2dc89fb5" />
+    <img width="570" height="750" alt="image" src="https://github.com/user-attachments/assets/c27b5617-f06c-4c57-9cd6-0d4a4bb396c2" />
 </div>
 
 ## Features
