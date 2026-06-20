@@ -123,7 +123,7 @@ class SettingsFragment : Fragment(), View.OnClickListener, View.OnLongClickListe
             binding.alignmentSelectLayout.visibility = View.GONE
 
         when (view.id) {
-            R.id.slauncherHiddenApps -> showHiddenApps()
+            R.id.navidroidHiddenApps -> showHiddenApps()
             R.id.screenTimeOnOff -> viewModel.showDialog.postValue(Constants.Dialog.DIGITAL_WELLBEING)
             R.id.appInfo -> openAppInfo(requireContext(), Process.myUserHandle(), BuildConfig.APPLICATION_ID)
             R.id.setLauncher -> viewModel.resetLauncherLiveData.call()
@@ -206,7 +206,7 @@ class SettingsFragment : Fragment(), View.OnClickListener, View.OnLongClickListe
     }
 
     private fun initClickListeners() {
-        binding.slauncherHiddenApps.setOnClickListener(this)
+        binding.navidroidHiddenApps.setOnClickListener(this)
         binding.scrollLayout.setOnClickListener(this)
         binding.appInfo.setOnClickListener(this)
         binding.setLauncher.setOnClickListener(this)
@@ -604,7 +604,7 @@ class SettingsFragment : Fragment(), View.OnClickListener, View.OnLongClickListe
 
     private fun updateHomeBottomAlignment() {
         if (viewModel.isSlauncherDefault.value != true) {
-            requireContext().showToast(getString(R.string.please_set_slauncher_as_default_first), Toast.LENGTH_LONG)
+            requireContext().showToast(getString(R.string.please_set_navidroid_as_default_first), Toast.LENGTH_LONG)
             return
         }
         prefs.homeBottomAlignment = !prefs.homeBottomAlignment

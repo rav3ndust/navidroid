@@ -162,7 +162,7 @@ class MainActivity : AppCompatActivity() {
         viewModel.showDialog.observe(this) {
             when (it) {
                 Constants.Dialog.ABOUT -> {
-                    showMessageDialog(R.string.app_name, R.string.welcome_to_slauncher_settings, R.string.okay) {
+                    showMessageDialog(R.string.app_name, R.string.welcome_to_navidroid_settings, R.string.okay) {
                         binding.messageLayout.visibility = View.GONE
                     }
                 }
@@ -212,8 +212,8 @@ class MainActivity : AppCompatActivity() {
                 }
 
                 Constants.Dialog.PRO_MESSAGE -> {
-                    showMessageDialog(R.string.hey, R.string.pro_message, R.string.slauncher_pro) {
-                        openUrl(Constants.URL_SLAUNCHER_PRO)
+                    showMessageDialog(R.string.hey, R.string.pro_message, R.string.navidroid_pro) {
+                        openUrl(Constants.URL_NAVIDROID_PRO)
                     }
                 }
             }

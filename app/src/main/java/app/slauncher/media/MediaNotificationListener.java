@@ -33,7 +33,7 @@ public class MediaNotificationListener extends NotificationListenerService {
         try {
             ComponentName me = new ComponentName(this, MediaNotificationListener.class);
             List<MediaController> controllers = mediaSessionManager.getActiveSessions(me);
-            Intent i = new Intent("com.slauncher.MEDIA_SESSIONS");
+            Intent i = new Intent("app.slauncher.MEDIA_SESSIONS");
             i.putExtra("count", controllers.size());
             for (int idx = 0; idx < controllers.size(); idx++) {
                 MediaController c = controllers.get(idx);

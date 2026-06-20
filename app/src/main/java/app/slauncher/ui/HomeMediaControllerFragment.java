@@ -72,7 +72,7 @@ public class HomeMediaControllerFragment extends Fragment {
             }
         };
         prefs.registerOnSharedPreferenceChangeListener(prefListener);
-        IntentFilter filter = new IntentFilter("com.slauncher.MEDIA_SESSIONS");
+        IntentFilter filter = new IntentFilter("app.slauncher.MEDIA_SESSIONS");
         if (android.os.Build.VERSION.SDK_INT >= 34) {
             // use the 5-arg overload to ensure flags are honored at runtime
             requireContext().registerReceiver(sessionsReceiver, filter, null, null, android.content.Context.RECEIVER_NOT_EXPORTED);

@@ -115,12 +115,13 @@ object Constants {
 
     const val MIN_ANIM_REFRESH_RATE = 10f
 
-    const val URL_ABOUT_SLAUNCHER = ""
-    const val URL_SLAUNCHER_PRIVACY = ""
+    const val URL_ABOUT_NAVIDROID = ""
+    const val URL_NAVIDROID_PRIVACY = ""
     const val URL_DOUBLE_TAP = ""
-    const val URL_SLAUNCHER_GITHUB = "https://github.com/s4nj1th/Slauncher"
+    const val URL_NAVIDROID_GITHUB = ""
+    const val URL_NAVIDROID_PLAY_STORE = ""
     const val URL_SLAUNCHER_PLAY_STORE = ""
-    const val URL_SLAUNCHER_PRO = ""
+    const val URL_NAVIDROID_PRO = ""
     const val URL_PLAY_STORE_DEV = ""
     const val URL_WALLPAPERS = ""
     const val URL_NTS = ""

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><resources>
-    <string name="app_name" translatable="false">Slauncher</string>
+    <string name="app_name" translatable="false">navidroid</string>
     <string name="github" translatable="false">Github</string>
     <string name="lock_layout_description" translatable="false">lock layout description to be used a unique id to lock screen</string>
-    <string name="slauncher_pro" translatable="false">Slauncher Pro</string>
+    <string name="navidroid_pro" translatable="false">navidroid Pro</string>
     <string name="digital_minimalism" translatable="false"><u>Digital Minimalism</u></string>
     <string name="new_app_note_to_self" translatable="false"><u>New app: Note to Self</u></string>
     <string name="day_battery" formatted="false" translatable="false">%s, %d%%</string>
@@ -21,10 +21,10 @@
     <string name="app">App</string>
     <string name="set_as_default_launcher">Set as default launcher</string>
     <string name="set_as_default_launcher_u"><u>Set as default launcher</u></string>
-    <string name="set_as_default_launcher_first">Set Slauncher default first</string>
+    <string name="set_as_default_launcher_first">Set navidroid default first</string>
     <string name="app_text_color">Text color</string>
     <string name="double_tap_to_lock_screen">Double tap to lock</string>
-    <string name="admin_permission_message">Slauncher promises to use lock screen permission responsibly. Slauncher does not collect or share any data.</string>
+    <string name="admin_permission_message">navidroid promises to use lock screen permission responsibly. navidroid does not collect or share any data.</string>
     <string name="about">About</string>
     <string name="off">Off</string>
     <string name="on">On</string>
@@ -69,28 +69,28 @@
     <string name="system_default">System</string>
     <string name="dark">Dark</string>
     <string name="light">Light</string>
-    <string name="welcome_to_slauncher_settings">Welcome to the settings!
+    <string name="welcome_to_navidroid_settings">Welcome to the settings!
         \n\nRemember, if you have any questions, our About page has the answer.</string>
     <string name="rate_us_message">Hi, you won\'t see this message again.
-        \n\nIf you\'re finding Slauncher useful, could you please leave a 5-star review? It\'ll mean the world to us. Thank you!</string>
-    <string name="share_message">We need your help! We believe everyone should know about Slauncher and its benefits, but we can\'t do it alone.
-        \n\nCould you please share Slauncher with your friends, family, and followers? Thank you for your support! ❤</string>
-    <string name="keyboard_message">Hi, keyboard is the fastest way to find and launch apps in Slauncher. Can we request you to keep this On for a few more days and then decide?
+        \n\nIf you\'re finding navidroid useful, could you please leave a 5-star review? It\'ll mean the world to us. Thank you!</string>
+    <string name="share_message">We need your help! We believe everyone should know about navidroid and its benefits, but we can\'t do it alone.
+        \n\nCould you please share navidroid with your friends, family, and followers? Thank you for your support! ❤</string>
+    <string name="keyboard_message">Hi, keyboard is the fastest way to find and launch apps in navidroid. Can we request you to keep this On for a few more days and then decide?
         \n\nThe choice is always yours.</string>
     <string name="digital_wellbeing_message">If you want to set time limits for certain apps, Digital Wellbeing feature of Android can help you do it.           Please search for Digital Wellbeing in your phone settings and enable it.</string>
     <string name="app_usage_message">To show/hide your screen time on the home screen, please allow or disallow the app usage permission.
         \n\nNote: No app usage data is collected. Everything is processed on your device.</string>
-    <string name="pro_message">Slauncher also has a pro version called Pro Launcher. It has extra features like weather, widgets, fonts, folders, AMOLED wallpapers, and so on.
-        \n\nIt\'s also the best way to support the developers of Slauncher. Check it out!</string>
-    <string name="accessibility_service_description">The accessibility permission is required to enable double tap to lock. Any data acquired by Slauncher via this service will not leave your device.</string>
-    <string name="support_slauncher_for_free">Support Slauncher for free by using our Amazon affiliate link.</string>
-    <string name="support_slauncher_message">Every time you buy something using our link, we get a small commission. Please save the link and use it whenever you shop online.
+    <string name="pro_message">navidroid also has a pro version called Pro Launcher. It has extra features like weather, widgets, fonts, folders, AMOLED wallpapers, and so on.
+        \n\nIt\'s also the best way to support the developers of navidroid. Check it out!</string>
+    <string name="accessibility_service_description">The accessibility permission is required to enable double tap to lock. Any data acquired by navidroid via this service will not leave your device.</string>
+    <string name="support_navidroid_for_free">Support navidroid for free by using our Amazon affiliate link.</string>
+    <string name="support_navidroid_message">Every time you buy something using our link, we get a small commission. Please save the link and use it whenever you shop online.
 Thank you!</string>
     <string name="open">Open link</string>
     <string name="copy">Copy</string>
     <string name="close">Close</string>
     <string name="not_now">Not now</string>
-    <string name="public_roadmap">Slauncher public roadmap</string>
+    <string name="public_roadmap">navidroid public roadmap</string>
     <string name="instagram">Instagram</string>
     <string name="twitter">Developer</string>
     <string name="roadmap">Roadmap</string>
@@ -98,14 +98,14 @@ Thank you!</string>
     <string name="date_only">Date only</string>
     <string name="bottom_on">Bottom: On</string>
     <string name="bottom_off">Bottom: Off</string>
-    <string name="please_set_slauncher_as_default_first">Please set Slauncher as default first</string>
+    <string name="please_set_navidroid_as_default_first">Please set navidroid as default first</string>
     <string name="affiliate">Affiliate</string>
     <string name="tip_start_typing_for_rename">Tip: Start typing for app RENAME option</string>
-    <string name="hidden_apps_message">Note: Tap on \'Slauncher\' at the top of this Settings page to find your hidden apps.\n\nMore details available in our About page.</string>
+    <string name="hidden_apps_message">Note: Tap on \'navidroid\' at the top of this Settings page to find your hidden apps.\n\nMore details available in our About page.</string>
     <string name="swipe_down_for">Swipe down for</string>
     <string name="search">Search</string>
     <string name="notifications">Notifications</string>
-    <string name="accessibility_disclosure">Please turn on or off Slauncher\'s accessibility service in your device\'s settings to enable or disable this feature.
+    <string name="accessibility_disclosure">Please turn on or off navidroid\'s accessibility service in your device\'s settings to enable or disable this feature.
     \n\nPlease note that this service is only used to let you turn off your device\'s screen using the double tap gesture. Our accessibility service does not collect or share any data.</string>
     <string name="accept">Accept</string>
     <string name="permission">Permission</string>
@@ -119,7 +119,7 @@ Thank you!</string>
     <string name="enabled">Enabled</string>
     <string name="disabled">Disabled</string>
     <string name="please_turn_on_double_tap_to_unlock">Please turn on double tap to lock</string>
-    <string name="launcher_failed_to_lock_device">Slauncher failed to lock device.\nPlease check your app settings.</string>
+    <string name="launcher_failed_to_lock_device">navidroid failed to lock device.\nPlease check your app settings.</string>
     <string name="long_press_to_select_app">Long press to select app</string>
     <string name="unable_to_open_app">Unable to open app</string>
     <string name="copied">Copied</string>
@@ -133,7 +133,7 @@ Thank you!</string>
     <string name="swipe_left_app_disabled">Swipe left app disabled</string>
     <string name="swipe_right_app_disabled">Swipe right app disabled</string>
     <string name="your_wallpaper_will_update_shortly">Your wallpaper will update shortly</string>
-    <string name="slauncher_is_not_default_launcher">Slauncher is not default. Wallpaper update will fail.</string>
+    <string name="navidroid_is_not_default_launcher">navidroid is not default. Wallpaper update will fail.</string>
     <string name="long_press_to_enable">Long press to enable</string>
     <string name="no_hidden_apps">No hidden apps</string>
     <string name="hidden_apps">Hidden apps</string>
@@ -144,7 +144,7 @@ Thank you!</string>
     <string name="learn_more">Learn more</string>
     <string name="did_you_know">Did you know?</string>
     <string name="leave_a_review">Leave a review</string>
-    <string name="review_message">Slauncher is free and always will be. It has no ads, collects no data, and reduces your screen time, resulting in a healthier life.
+    <string name="review_message">navidroid is free and always will be. It has no ads, collects no data, and reduces your screen time, resulting in a healthier life.
         \n\nWe hope you enjoy it. Tell us what you think.</string>
     <string name="alignment_changed">Alignment changed ✅</string>
     <string name="home_screen">Home screen</string>
